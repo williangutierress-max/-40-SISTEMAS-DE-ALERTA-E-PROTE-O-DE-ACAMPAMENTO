@@ -1,0 +1,7 @@
+{
+  "name": "+40 Sistemas de Alerta e Proteção de Acampamento",
+  "description": "Descubra +40 sistemas visuais de alerta e proteção para acampamento. Garanta segurança e tranquilidade em suas aventuras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
